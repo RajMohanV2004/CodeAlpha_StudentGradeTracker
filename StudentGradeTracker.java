@@ -1,5 +1,3 @@
-package CodeAlpha;
-
 import java.util.Scanner;
 
 public class StudentGradeTracker {
